@@ -1,5 +1,8 @@
+package Intro;
 //Chris Pope
-// CIS 125 - Intro to Programming
+// Main.java
+// June 26, 2026
+// // I affirm that this program is entirely my own work and adheres to the academic integrity policies of my institution.
 
 public class Main {
     public static void main(String[] args) {
