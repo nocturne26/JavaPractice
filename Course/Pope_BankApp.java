@@ -1,7 +1,6 @@
 // Chris Pope
 // CIS125 - Intro to Programming
 // 7-6-26 Java Method argument
-// This assignment was completed soley by me without AI interventions.
 
 package Course;
 
